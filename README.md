@@ -42,6 +42,7 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 
 ### 🆕 最新文章
 
+- [币安/欧易合约交易入门：杠杆与保证金原理详解（2026）](https://newbeebnb.cn/posts/crypto-futures-leverage-guide-2026) · 2026-09-07
 - [USDT出金安全，朋友劝：别冻卡](https://newbeebnb.cn/posts/usdt-withdraw-p2p-safety-guide-2026) · 2026-09-06
 - [虚拟卡是什么？主流虚拟卡服务对比与选择指南（2026）](https://newbeebnb.cn/posts/virtual-card-overseas-payment-2026) · 2026-09-06
 - [比特币，减半啦，啥意思，听我唠](https://newbeebnb.cn/posts/bitcoin-halving-cycle-explained-2026) · 2026-09-05
@@ -49,11 +50,6 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 - [看币行情，选软件，这几款，就够用](https://newbeebnb.cn/posts/crypto-price-app-recommendations-2026) · 2026-09-04
 - [币安卡 vs Bybit 卡：海外消费怎么更省？（2026 对比指南）](https://newbeebnb.cn/posts/binance-vs-bybit-card-comparison-2026) · 2026-09-04
 - [海外订阅支付全攻略：ChatGPT充值教程（2026）](https://newbeebnb.cn/posts/chatgpt-subscription-payment-guide-2026) · 2026-09-03
-- [听我说，助记词，安全事，别大意](https://newbeebnb.cn/posts/seed-phrase-security-guide-2026) · 2026-09-03
-
-### ✍️ 站外专栏（知乎 · 持续更新）
-
-- [分享几个我在用的比特币定投/回测工具（全部免费，无广告）](https://zhuanlan.zhihu.com/p/2080058359873529276) · 2026-09-06
 
 ### 📚 新手教程（持续更新）
 
