@@ -77,6 +77,13 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 
 币安 Binance、欧易 OKX、Bybit、Bitget 等主流交易所的**官方注册入口与下载指引**。
 
+## 🛡️ 站点健康与工程
+
+- ✅ **安全响应头 5 项全覆盖** (HSTS / CSP / X-Frame-Options / nosniff / Referrer-Policy)
+- ✅ **Schema.org 结构化数据 100/100** (Organization + WebPage + WebSite + Article)
+- ✅ **性能** PageSpeed 91/100 · LCP 0.4s · CLS 0 (2026-09-07 实测)
+- 📋 完整体检修复记录: [docs/engineering-2026-09.md](docs/engineering-2026-09.md)
+
 ## 🎯 设计理念
 
 - **新手视角**：不堆术语，讲人话，一步步来
