@@ -56,6 +56,7 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 
 ### 🆕 最新文章
 
+- [币安注册完整图文教程（超详细版 2026）](https://newbeebnb.cn/posts/binance-registration-guide-2026) · 2026-09-11
 - [交易信号与跟单交易：新手到底该不该跟单？（2026）](https://newbeebnb.cn/posts/copy-trading-signals-guide-2026) · 2026-09-10
 - [Python 量化交易入门：从零写你的第一个回测（2026）](https://newbeebnb.cn/posts/python-quant-trading-backtest-2026) · 2026-09-09
 - [加密货币定投策略详解：每周定投到底怎么做？（2026）](https://newbeebnb.cn/posts/crypto-dca-investing-guide-2026) · 2026-09-08
@@ -63,7 +64,6 @@ NEWBEE 是一个面向**加密货币新手**的中文导航与学习站，解决
 - [币安/欧易合约交易入门：杠杆与保证金原理详解（2026）](https://newbeebnb.cn/posts/crypto-futures-leverage-guide-2026) · 2026-09-07
 - [USDT出金安全，朋友劝：别冻卡](https://newbeebnb.cn/posts/usdt-withdraw-p2p-safety-guide-2026) · 2026-09-06
 - [虚拟卡是什么？主流虚拟卡服务对比与选择指南（2026）](https://newbeebnb.cn/posts/virtual-card-overseas-payment-2026) · 2026-09-06
-- [比特币，减半啦，啥意思，听我唠](https://newbeebnb.cn/posts/bitcoin-halving-cycle-explained-2026) · 2026-09-05
 
 ### 📚 新手教程（持续更新）
 
